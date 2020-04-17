@@ -1,0 +1,1 @@
+export const API = "http://raddit.new-labs.co:8080/raddit/"
